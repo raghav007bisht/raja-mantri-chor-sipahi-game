@@ -1,0 +1,2 @@
+Simple Game For Python Lovers.<br>
+Download : <a href='https://raja-mantri-chor-sipahi-game.googlecode.com/svn/raja-mantri-chor-sipahi.py'>https://raja-mantri-chor-sipahi-game.googlecode.com/svn/raja-mantri-chor-sipahi.py</a>
